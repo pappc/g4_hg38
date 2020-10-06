@@ -1,0 +1,30 @@
+track g4_hg38
+bigDataUrl g4.merged.Hg38.uniq.bed.bb
+shortLabel canonical_G4s
+longLabel pred_g4_hg38
+type bigBed 6
+colorByStrand 255,0,0 0,0,255
+
+track g4bs
+bigDataUrl g4bs.merged.Hg38.uniq.bed.bb
+shortLabel G4_bulge
+longLabel G4_bulge_prediction
+type bigBed 6
+colorByStrand 255,0,0 0,0,255
+
+track g4_seq
+bigDataUrl G4seq.merged.Hg38.bed.bb
+shortLabel experimental_G4s
+longLabel Experimentally_detected_G4s
+type bigBed 6
+colorByStrand 255,0,0 0,0,255
+
+track RLFS_Hg38
+bigDataUrl RLFS.merged.Hg38.bed.bb
+shortLabel RLFS
+longLabel RLFS_hg38
+type bigBed 6
+colorByStrand 255,0,0 0,0,255
+
+
+
