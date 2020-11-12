@@ -1,12 +1,12 @@
 track g4_hg38
-bigDataUrl g4.merged.Hg38.uniq.bed.bb
+bigDataUrl g4.merged.uniq.v2.Hg38.bed.bb
 shortLabel canonical_G4s
 longLabel pred_g4_hg38
 type bigBed 6
 colorByStrand 255,0,0 0,0,255
 
 track g4bs
-bigDataUrl g4bs.merged.Hg38.uniq.bed.bb
+bigDataUrl g4bs.merged.uniq.v2.Hg38.bed.bb
 shortLabel G4_bulge
 longLabel G4_bulge_prediction
 type bigBed 6
