@@ -26,5 +26,15 @@ longLabel RLFS_hg38
 type bigBed 6
 colorByStrand 255,0,0 0,0,255
 
+track exp_Rloops_merged
+bigDataUrl exp_Rloop_combined_merged.Hg38.bed.bb
+shortLabel merged_DRIP
+longLabel merged_DRIP_for_Hg38
+type bigBed
 
+track exp_Rloops
+bigDataUrl exp_Rloop_combined.Hg38.bed.bb
+shortLabel exp_Rloop_signals
+longLabel pooled_exp_Rloop_signals
+type bigBed
 
