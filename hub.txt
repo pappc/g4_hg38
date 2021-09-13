@@ -1,5 +1,5 @@
 hub G4_hg38
-shortLabel G4 sequencing data
-longLabel NGS data targeting G4 quadruplex formation
+shortLabel Predicted G4s in the human genome
+longLabel Computational and experimental prediction of G4 forming sequences in the Hg38 human genome assembly
 genomesFile genomes.txt
 email pappc@upstate.edu
