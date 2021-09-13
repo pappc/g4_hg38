@@ -1,91 +1,91 @@
 track Reg_cG4_L7
 bigDataUrl cG4_L7.Hg38.uniq.no_repEle.merged.Regulatory.txt.bb
-shortLabel Predicted_regulatory_cG4s
-longLabel Predicted_cG4s_that_overlap_TFBS_or_DNase_Hypersensitive_regions
+shortLabel Reg_cG4_L7
+longLabel Predicted_regulatory_cG4s
 type bigBed 6
 colorByStrand 255,0,0 0,0,255
 
 track cG4_L7
 bigDataUrl cG4_L7.Hg38.uniq.no_repEle.txt.bb
-shortLabel Predicted_cG4s
-longLabel Predicted_cG4s_with_maximum_loop_lengths_of_7_nucleotides
+shortLabel cG4_L7
+longLabel Predicted_cG4s
 type bigBed 6
 colorByStrand 255,0,0 0,0,255
 
 track Reg_G4BS_G2B2
 bigDataUrl g4bs.Hg38.uniq.G2B2.no_repEle.merged.Regulatory.txt.bb
-shortLabel Predicted_regulatory_G2B2_type_G4BS
-longLabel Predicted_G2B2_type_G4BS_that_overlap_TFBS_or_DNase_Hypersensitive_regions
+shortLabel Reg_G4BS_G2B2
+longLabel Predicted_regulatory_G2B2_type_G4BS
 type bigBed 6
 colorByStrand 255,0,0 0,0,255
 
 track G4BS_G2B2
 bigDataUrl g4bs.Hg38.uniq.G2B2.no_repEle.txt.bb
-shortLabel Predicted_G2B2_type_G4BS
+shortLabel G4BS_G2B2
 longLabel Predicted_G2B2_type_G4BS
 type bigBed 6
 colorByStrand 255,0,0 0,0,255
 
 track Reg_G4BS_G3B1
 bigDataUrl g4bs.Hg38.uniq.G3B1.no_repEle.merged.Regulatory.txt.bb
-shortLabel Predicted_regulatory_G3B1_type_G4BS
-longLabel Predicted_G3B1_type_G4BS_that_overlap_TFBS_or_DNase_Hypersensitive_regions
+shortLabel Reg_G4BS_G3B1
+longLabel Predicted_regulatory_G3B1_type_G4BS
 type bigBed 6
 colorByStrand 255,0,0 0,0,255
 
 track G4BS_G3B1
 bigDataUrl g4bs.Hg38.uniq.G3B1.no_repEle.txt.bb
-shortLabel Predicted_G3B1_type_G4BS
+shortLabel G4BS_G3B1
 longLabel Predicted_G3B1_type_G4BS
 type bigBed 6
 colorByStrand 255,0,0 0,0,255
 
 track Reg_G4BS_G3B2
 bigDataUrl g4bs.Hg38.uniq.G3B2.no_repEle.merged.Regulatory.txt.bb
-shortLabel Predicted_regulatory_G3B2_type_G4BS
-longLabel Predicted_G3B2_type_G4BS_that_overlap_TFBS_or_DNase_Hypersensitive_regions
+shortLabel Reg_G4BS_G3B2
+longLabel Predicted_regulatory_G3B2_type_G4BS
 type bigBed 6
 colorByStrand 255,0,0 0,0,255
 
 track G4BS_G3B2
-bigDataUrl g4bs.Hg38.uniq.G3B2.no_repEle.txt
-shortLabel Predicted_G3B2_type_G4BS
+bigDataUrl g4bs.Hg38.uniq.G3B2.no_repEle.txt.bb
+shortLabel G4BS_G3B2
 longLabel Predicted_G3B2_type_G4BS
 type bigBed 6
 colorByStrand 255,0,0 0,0,255
 
 track Bulk_Reg_G4BS
 bigDataUrl g4bs.Hg38.uniq.no_repEle.merged.Regulatory.txt.bb
-shortLabel Predicted_regulatory_G4BS
-longLabel Predicted_G4BS_that_overlap_TFBS_or_DNase_Hypersensitive_regions
+shortLabel Bulk_Reg_G4BS
+longLabel Predicted_regulatory_G4BS
 type bigBed 6
 colorByStrand 255,0,0 0,0,255
 
 track Bulk_G4BS
 bigDataUrl g4bs.Hg38.uniq.no_repEle.txt.bb
-shortLabel Predicted_G4BS
+shortLabel Bulk_G4BS
 longLabel Predicted_G4BS
 type bigBed 6
 colorByStrand 255,0,0 0,0,255
 
 track G4seq
 bigDataUrl g4seq.NEW.Hg38.no_repEle.bed.bb
-shortLabel G4seq_GSE110582
-longLabel Experimentally_detected_Gquadruplex_structures_from_GSE110582
+shortLabel G4seq
+longLabel G4seq_GSE110582
 type bigBed 6
 colorByStrand 255,0,0 0,0,255
 
 track Reg_G4seq
 bigDataUrl g4seq.NEW.Hg38.no_repEle.Regulatory.bed.bb
-shortLabel Regulatory_G4seq_GSE110582
-longLabel Experimentally_detected_Gquadruplex_structures_from_GSE110582_that_overlap_TFBS_or_DNase_Hypersensitive_regions
+shortLabel Reg_G4seq
+longLabel Regulatory_G4seq_GSE110582
 type bigBed 6
 colorByStrand 255,0,0 0,0,255
 
 track RLFS
 bigDataUrl RLFS.Hg38.bed.bb
-shortLabel Predicted_sites_of_R_loop_formation
-longLabel Computationally_predicted_sites_of_R_loop_formation_in_the_human_genome
+shortLabel RLFS
+longLabel Predicted_sites_of_R_loop_formation
 type bigBed 6
 colorByStrand 255,0,0 0,0,255
 
