@@ -5,7 +5,7 @@ longLabel pG4-CS
 type bigBed 6
 colorByStrand 255,0,0 0,0,255
 
-track G2B2 model pG4-BS
+track G2B2_model_pG4-BS
 bigDataUrl g4bs.Hg38.uniq.G2B2.no_repEle.txt.bb
 shortLabel G2B2 model pG4-BS
 longLabel G2B2 model pG4-BS
