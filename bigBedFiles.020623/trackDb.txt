@@ -87,7 +87,7 @@ bigDataUrl LM2_CUTtag_q_peaks.1e-12.narrowPeak.bb
 shortLabel LM2 CUT&Tag peaks
 longLabel LM2 CUT&Tag peaks
 type bigNarrowPeak
-color 230,230,250
+color 75,0,130
 
 track SW1271_CUT&Tag_peaks
 bigDataUrl SW1271_CUTtag_q_peaks.1e-12.narrowPeak.bb
