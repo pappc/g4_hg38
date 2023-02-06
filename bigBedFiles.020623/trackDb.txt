@@ -52,7 +52,7 @@ bigDataUrl Validated_G4BS.txt.bb
 shortLabel Validated pG4-BS
 longLabel Experimentally validated pG4-BS
 type bigBed 6
-color 0,0,0
+colorByStrand 255,0,0 0,0,255
 
 track HEK293T_replicate1_CUT&Tag_peaks
 bigDataUrl HEK293T_CUTtag_rep1_q_peaks.no_IgG.1e-12.narrowPeak.bb
