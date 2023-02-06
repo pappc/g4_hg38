@@ -19,7 +19,7 @@ longLabel G3B1_model_pG4-BS
 type bigBed 6
 colorByStrand 255,0,0 0,0,255
 
-track G3B2 model pG4-BS
+track G3B2_model_pG4-BS
 bigDataUrl g4bs.Hg38.uniq.G3B2.no_repEle.txt.bb
 shortLabel G3B2 model pG4-BS
 longLabel G3B2 model pG4-BS
@@ -33,7 +33,7 @@ longLabel pG4-BS
 type bigBed 6
 colorByStrand 255,0,0 0,0,255
 
-track G4-seq regions
+track G4-seq_regions
 bigDataUrl g4seq.NEW.Hg38.no_repEle.bed.bb
 shortLabel G4-seq regions
 longLabel G4seq_GSE110582
@@ -47,52 +47,51 @@ longLabel Predicted sites of R-loop formation
 type bigBed 6
 colorByStrand 255,0,0 0,0,255
 
-track Validated pG4-BS
+track Validated_pG4-BS
 bigDataUrl Validated_G4BS.txt.bb
 shortLabel Validated pG4-BS
 longLabel Experimentally validated pG4-BS
 type bigBed 6
 colorByStrand 255,0,0 0,0,255
 
-track HEK293T_replicate1 CUT&Tag peaks
+track HEK293T_replicate1_CUT&Tag_peaks
 bigDataUrl HEK293T_CUTtag_rep1_q_peaks.no_IgG.1e-12.narrowPeak.bb
 shortLabel HEK293T_replicate1 CUT&Tag peaks
 longLabel HEK293T_replicate1 CUT&Tag peaks
 type bigNarrowPeak
 color 255,172,28
 
-track HEK293T_replicate2 CUT&Tag peaks
+track HEK293T_replicate2_CUT&Tag_peaks
 bigDataUrl HEK293T_CUTtag_rep2_q_peaks.no_IgG.1e-12.narrowPeak.bb
 shortLabel HEK293T_replicate2 CUT&Tag peaks
 longLabel HEK293T_replicate2 CUT&Tag peaks
 type bigNarrowPeak
 color 255,172,28
 
-track HeLa CUT&Tag peaks
+track HeLa_CUT&Tag_peaks
 bigDataUrl HeLa_CUTtag_q_peaks.1e-12.narrowPeak.bb
 shortLabel HeLa CUT&Tag peaks
 longLabel HeLa CUT&Tag peaks
 type bigNarrowPeak
 color 0,0,255
 
-track K562 CUT&Tag peaks
+track K562_CUT&Tag_peaks
 bigDataUrl K562_CUTtag_q_peaks.1e-12.narrowPeak.bb
 shortLabel K562 CUT&Tag peaks
 longLabel K562 CUT&Tag peaks
 type bigNarrowPeak
 color 21,71,52
 
-track LM2 CUT&Tag peaks
+track LM2_CUT&Tag_peaks
 bigDataUrl LM2_CUTtag_q_peaks.1e-12.narrowPeak.bb
 shortLabel LM2 CUT&Tag peaks
 longLabel LM2 CUT&Tag peaks
 type bigNarrowPeak
 color 230,230,250
 
-track SW1271 CUT&Tag peaks
+track SW1271_CUT&Tag_peaks
 bigDataUrl SW1271_CUTtag_q_peaks.1e-12.narrowPeak.bb
 shortLabel SW1271 CUT&Tag peaks
 longLabel SW1271 CUT&Tag peaks
 type bigNarrowPeak
 color 255,0,0
-
