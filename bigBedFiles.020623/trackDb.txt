@@ -14,8 +14,8 @@ colorByStrand 255,0,0 0,0,255
 
 track G3B1_model_pG4-BS
 bigDataUrl g4bs.Hg38.uniq.G3B1.no_repEle.txt.bb
-shortLabel G3B1 model pG4-BS
-longLabel G3B1 model pG4-BS
+shortLabel G3B1_model_pG4-BS
+longLabel G3B1_model_pG4-BS
 type bigBed 6
 colorByStrand 255,0,0 0,0,255
 
