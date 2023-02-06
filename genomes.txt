@@ -1,2 +1,2 @@
 genome hg38
-trackDb bigBedFiles/trackDb.txt
+trackDb bigBedFiles.020623/trackDb.txt
