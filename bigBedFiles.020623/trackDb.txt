@@ -95,3 +95,45 @@ shortLabel SW1271 CUT&Tag peaks
 longLabel SW1271 CUT&Tag peaks
 type bigNarrowPeak
 color 255,0,0
+
+track HEK293T_replicate1_CUT&Tag_signal
+bigDataUrl https://g4cutntag.s3.ca-central-1.amazonaws.com/HEK293T_CUTtag_rep1_q_treat_pileup.bw
+shortLabel HEK293T_replicate1 CUT&Tag signal
+longLabel HEK293T_replicate1 CUT&Tag signal
+type bigWig
+color 255,172,28
+
+track HEK293T_replicate2_CUT&Tag_signal
+bigDataUrl https://g4cutntag.s3.ca-central-1.amazonaws.com/HEK293T_CUTtag_q_treat_pileup.bw
+shortLabel HEK293T_replicate2 CUT&Tag signal
+longLabel HEK293T_replicate2 CUT&Tag signal
+type bigWig
+color 255,172,28
+
+track HeLa_CUT&Tag_signal
+bigDataUrl https://g4cutntag.s3.ca-central-1.amazonaws.com/HeLa_CUTtag_q_treat_pileup.bw
+shortLabel HeLa CUT&Tag signal
+longLabel HeLa CUT&Tag signal
+type bigWig
+color 0,0,255
+
+track K562_CUT&Tag_signal
+bigDataUrl https://g4cutntag.s3.ca-central-1.amazonaws.com/K562_CUTtag_q_treat_pileup.bw
+shortLabel K562 CUT&Tag signal
+longLabel K562 CUT&Tag signal
+type bigWig
+color 21,71,52
+
+track LM2_CUT&Tag_signal
+bigDataUrl https://g4cutntag.s3.ca-central-1.amazonaws.com/LM2_CUTtag_q_treat_pileup.bw
+shortLabel LM2 CUT&Tag signal
+longLabel LM2 CUT&Tag signal
+type bigWig
+color 75,0,130
+
+track SW1271_CUT&Tag_signal
+bigDataUrl https://g4cutntag.s3.ca-central-1.amazonaws.com/SW1271_CUTtag_q_treat_pileup.bw
+shortLabel SW1271 CUT&Tag signal
+longLabel SW1271 CUT&Tag signal
+type bigWig
+color 255,0,0
